@@ -1,0 +1,9 @@
+.passphrase
+app.html
+handbok.pdf
+*.pyc
+__pycache__/
+data/
+build.py
+print_render.py
+app_template.html
